@@ -9,7 +9,7 @@ You can simply start using following code:
 	
 	BreakoutEngine breakoutEngine = new BreakoutEngine();
 
-	RootPanel root = RootPanel.get();\
+	RootPanel root = RootPanel.get();
 
 	root.add(breakoutEngine);
 	
